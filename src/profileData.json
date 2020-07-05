@@ -1,0 +1,205 @@
+{
+	"landing": {
+		"firstName": "Piotr",
+		"lastName": "Kram",
+		"bio": "I am a Computer Science student at the University of Cambridge interested in machine learning and full-stack development. I am very ambitious and curious about the world. I don't like plateau and too much routine and I enjoy solving new problems, creative thinking and learning.",
+		"email": "pk485@cam.ac.uk",
+		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
+		"github": "https://github.com/KramPiotr",
+		"devpost": "https://devpost.com/PiotrKram"
+	},
+	"experience": [
+		{
+			"position": "Technology Development Intern",
+			"organization": "Barclays Bank UK PLC",
+			"aboutWork": "",
+			"fromDate": "July 2020",
+			"toDate": "Present"
+		},
+		{
+				"position": "Software Engineering Intern",
+				"organization": "Utterberry",
+				"aboutWork": "- creating web applications in JavaScript\n- analyzing 3D transformations and their implementations in Three.js\n- creating mobile applications in React Native\n- creating backend using Express.js and MongoDB",
+				"fromDate": "June 2019",
+				"toDate": "October 2019"
+		},
+		{
+			"position": "Educational Consultant",
+			"organization": "Akademia Ivy Poland",
+			"aboutWork": "- teaching theoretical and practical Machine Learning in Python",
+			"fromDate": "January 2019",
+			"toDate": "Present"
+		},
+		{
+			"position": "Participant in a mini-internship organized by the Polish National Fund for Gifted Children",
+			"organization": "Nencki Institute of Experimental Biology - Laboratory of Neuroinformatics",
+			"aboutWork": "- creating and optimazing neural networks using the Keras API",
+			"fromDate": "June 2018",
+			"toDate": "June 2018"
+		},
+		{
+			"position": "Mobile Development Intern",
+			"organization": "Connectis_",
+			"aboutWork": "- creating software in Xamarin technology for the Android platform (api 19+)",
+			"fromDate": "July 2017",
+			"toDate": "August 2017"
+		}
+	],
+	"education": [{
+			"university": "University of Cambridge",
+			"degree": "B.A. in Computer Science",
+			"gpa": "",
+			"fromDate": "October 2018",
+			"toDate": "Present"
+		},
+		{
+			"university": "XIV High School in Warsaw",
+			"degree": "Matex - special class for mathematically gifted students",
+			"gpa": "100% in Computer Science, Maths and English official graduation exams",
+			"fromDate": "September 2015",
+			"toDate": "May 2018"
+		}
+	],
+	"skills": 
+	{"languagesAndFrameworks":[
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "C++"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "JavaScript"
+		},
+		{
+			"name": "React Native"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Xamarin"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "Android"
+		},
+		{
+			"name": "HTML/CSS"
+		},
+		{
+			"name": "XML/XAML"
+		},
+		{
+			"name": "SML"
+		},
+		{
+			"name": "SystemVerilog"
+		},
+		{
+			"name": "Prolog"
+		},
+		{
+			"name": "OpenGL"
+		},
+		{
+			"name": "SQL"
+		}],
+	"paradigmsAndTools":[{
+			"name": "Machine Learning and Data Processing in Python (numpy, pandas, scikit-learn, matplotlib, keras, tensorflow)"
+		},
+		{
+			"name": "Algorithms and data structures"
+		},
+		{
+			"name": "Advanced problem solving"
+		},
+		{
+			"name": "Object-oriented programming"
+		},
+		{
+			"name": "Functional programming (mostly in SML)"
+		},
+		{
+			"name": "Git"
+		},
+		{
+			"name": "Windows & Linux consoles"
+		},
+		{
+			"name": "Microsoft Office 365"
+		},
+		{
+			"name": "Mongo DB"
+		},
+		{
+			"name": "Unity"
+		},
+		{
+			"name": "Developing for Microsoft Hololens"
+		},
+		{
+			"name": "Unix tools"
+		}
+	]},
+	"interests": {
+		"paragraphOne": "Apart from Computer Science, I love sports. I regularly play football and work out at a gym.",
+		"paragraphTwo": "Moreover, I like music. I have graduated from a music school and in my free time I play the guitar, the piano and sing.",
+		"paragraphThree": "Additionally, I am very curious about the surrounding world. I learn languages (Spanish and German at the moment) and I read about psychology, geography, economy and politics."
+	},
+	"awards": {
+	"university": [{
+			"awardDetail": "the Green IoT award and the MongoDB award during the 'Hack Cambridge 2020' hackathon"
+		},
+		{
+			"awardDetail": "Best Hack for Social Good award and startmeup sponsor prize during the 'Oxford Hack 2019' Hackathon"
+		},
+		{
+			"awardDetail": "the Winner of the trading challenge organized by the Cambridge University Algorithmic Trading Society and the IMC trading company"
+		},
+		{
+			"awardDetail": "2nd place in the spring edition of the Wawcode 2019 Hackathon in Warsaw"
+		},
+		{
+			"awardDetail": "People's choice award in the Cambridge-Bradfield blockchain Hackathon (CBHACK)"
+		}],
+	"earlier": [{
+			"awardDetail": "the Finalist of the 67th and the 69th editions of Polish Mathematical Olympiad"
+		},
+		{
+			"awardDetail": "the Laureate of the 17th, the 18th and the 19th editions of the Mathematical Competition for High School Students organised by the Warsaw University of Technology"
+		},
+		{
+			"awardDetail": "the Laureate of the Jagiellonian Mathematical Tournament 2017/2018"
+		},
+		{
+			"awardDetail": "the Winner of the Mathematical League of the Warsaw University of Technology (2018)"
+		},
+		{
+			"awardDetail": "the Laureate of the 11th polish edition of the International Challenge on Informatics and Computational Thinking 'Bebras'"
+		},
+		{
+			"awardDetail": "the recipient of the Mazovian scholarship for talented students awarded for a project concerned with creating an interactive website popularizing inversion - one of the most important mathematical transformations"
+		},
+		{
+			"awardDetail": "the Laureate of the 10th edition of the Mathematical Olympiad for Lower Secondary School Students"
+		},
+		{
+			"awardDetail": "the scholar of the Polish National Fund for Gifted Children"
+		},
+		{
+			"awardDetail": "2nd place in the international, team mathematical competition NABOJ 2015/2016"
+		},
+		{
+			"awardDetail": "the Finalist of the Physics 2014/2015 and the Philosophy 2013/2014 regional competitions"
+		}
+	]}
+}
