@@ -17,7 +17,7 @@ class Landing extends Component {
             <span className="ml-2 text-primary">{this.landingData.lastName}</span>
           </h1>
           <div className="subheading mb-5 ml-1">
-             <a href="mailto:name@email.com">{this.landingData.email}</a>
+             <a href="mailto:pk485@cam.ac.uk">{this.landingData.email}</a>
           </div>
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">

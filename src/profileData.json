@@ -19,28 +19,28 @@
 		{
 				"position": "Software Engineering Intern",
 				"organization": "Utterberry",
-				"aboutWork": "- creating web applications in JavaScript\n- analyzing 3D transformations and their implementations in Three.js\n- creating mobile applications in React Native\n- creating backend using Express.js and MongoDB",
+				"aboutWork": "creating web applications in JavaScript\nanalyzing 3D transformations and their implementations in Three.js\ncreating mobile applications in React Native\ncreating backend using Express.js and MongoDB",
 				"fromDate": "June 2019",
 				"toDate": "October 2019"
 		},
 		{
 			"position": "Educational Consultant",
 			"organization": "Akademia Ivy Poland",
-			"aboutWork": "- teaching theoretical and practical Machine Learning in Python",
+			"aboutWork": "teaching theoretical and practical Machine Learning in Python",
 			"fromDate": "January 2019",
 			"toDate": "Present"
 		},
 		{
 			"position": "Participant in a mini-internship organized by the Polish National Fund for Gifted Children",
 			"organization": "Nencki Institute of Experimental Biology - Laboratory of Neuroinformatics",
-			"aboutWork": "- creating and optimazing neural networks using the Keras API",
+			"aboutWork": "creating and optimazing neural networks using the Keras API",
 			"fromDate": "June 2018",
 			"toDate": "June 2018"
 		},
 		{
 			"position": "Mobile Development Intern",
 			"organization": "Connectis_",
-			"aboutWork": "- creating software in Xamarin technology for the Android platform (api 19+)",
+			"aboutWork": "creating software in Xamarin technology for the Android platform (api 19+)",
 			"fromDate": "July 2017",
 			"toDate": "August 2017"
 		}
@@ -61,7 +61,12 @@
 		}
 	],
 	"skills": 
-	{"languagesAndFrameworks":[
+	{"certificates":[{
+		"name": "Machine Learning",
+		"organization": "Coursera",
+		"credentialID": "QJYEUTPDQVS2"
+	}],	
+		"languagesAndFrameworks":[
 		{
 			"name": "Java"
 		},
@@ -148,6 +153,9 @@
 		},
 		{
 			"name": "Unix tools"
+		},
+		{
+			"name": "AWS services"
 		}
 	]},
 	"interests": {

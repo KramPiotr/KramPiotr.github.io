@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheck } from "@fortawesome/free-solid-svg-icons";
 
 class Experience extends Component {
   constructor(props) {
@@ -20,11 +22,21 @@ class Experience extends Component {
                   <div className="subheading mb-3">{exp.organization}</div>
                   {
                     exp.aboutWork.split("\n").map((item, i) => {
-                      return <p key={i} className="mb-0">{item}</p>
+                      if (!item.length){
+                        return null;
+                      }
+                      return <p key={i} className="list-item mb-0">
+                      <div class="row">
+                      <div class="col-sm-auto"><FontAwesomeIcon icon={faCheck} color="#eb3102" /></div>
+                      <div class="col">
+                        {item}
+                      </div>
+                      </div>
+                      </p>;
                     })
                   }
                 </div>
-                <div className="resume-date text-md-right">
+                <div className="resume-date text-md-right mt-3">
                   <span className="text-primary">{exp.fromDate} - {exp.toDate}</span>
                 </div>
               </div>
