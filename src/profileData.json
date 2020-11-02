@@ -85,7 +85,8 @@
 			"video": "https://youtu.be/bRJzsE_hmN4",
 			"description": "Together with 2 of my friends we created a mobile app that gives users real-time information about current state of different sport centres/playing fields (number of people occupying the object, whether they are actively playing etc.) so that it's easier for users to group up for team sports. We created the project during the spring edition of the 'Wawcode 2019' hackathon and we won 2nd place award. I was in charge of developing the mobile application and my friends developed machine learning models used for analyzing CCTV footages.",
 			"technologies": "Android, Java, XML",
-			"extralink": "http://wawcode.pl/"
+			"extralink": "http://wawcode.pl/",
+			"date": "April 2019"
 		},
 		{
 			"name": "PDF combiner",
