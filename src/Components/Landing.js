@@ -46,7 +46,7 @@ class Landing extends Component {
               </div>
             </div>
             <div className="col my-col" style={{maxWidth: "400px"}}> 
-              <img src="images/landing/smile.jpg" alt="smile" class="my-image" style={{width: "400px", borderRadius: "50%"}}/> 
+              <img src="images/landing/smile.JPG" alt="smile" class="my-image" style={{width: "400px", borderRadius: "50%"}}/> 
             </div>
           </div>
         </div>
