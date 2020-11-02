@@ -12,7 +12,7 @@
 		{
 			"name": "Hero",
 			"date": "November-December 2019",
-			"photo": "hero.PNG",
+			"photo": "hero.png",
 			"video": "https://www.youtube.com/watch?v=Xbgi7HNT_uI",
 			"description": "Me and my teammates solved a problem prevalent in third world countries. In some places in the world it takes more than 40 minutes for an ambulance to reach an accident's scene. Through our system eligible people can register and be notified by an ambulance dispatcher about an accident in their vicinity so that the help can be given as fast as possible. The project won two awards during Oxford Hackathon 2019 and we decided to improve it and submit it for the Microsoft Imagine Cup competition. My task was to create the React Native front-end and integrate it with the back-end developed by my peers. The youtube video you see contains a demonstration of the front-end at the end.",
 			"technologies": "React Native, JavaScript, CSS, Firebase platform",
@@ -23,15 +23,15 @@
 		{
 			"name": "Machine Learning tutoring",
 			"date": "March-August 2020",
-			"photo": "machine_learning_classes.PNG",
-			"inside_photo": "machine_learning_classes_inside.PNG",
+			"photo": "machine_learning_classes.png",
+			"inside_photo": "machine_learning_classes_inside.png",
 			"technologies": "IPython in Google Colaboratory, Python and its libraries i.a. Scikit-learn, Numpy, Pandas, Tensorflow, Keras, Matplotlib",
 			"description": "As a tutor, together with my student we went through practical fundamentals of machine learning. The main topics we covered: linear regression, logistic regression, support vector machines, decision trees, ensemble learning and random forests, dimensionality reduction, unsupervised learning techniques, basic neural networks, convolutional neural networks, recurrent neural networks, natural language processing, autoencoders, generative adversarial networks, reinforcement learning, tutorial of tensorflow 2.0, advanced tensorflow/IPython tools, basics of quantum computing in machine learning. For each topics we went through practical implementations in python with thorough understanding and experimentation."
 		},
 		{
 			"name": "Green eyes",
 			"github": "https://github.com/mahclark/GreenEyes/tree/master",
-			"photo": "green_eyes.PNG",
+			"photo": "green_eyes.png",
 			"video": "https://youtu.be/b21W1tDoAbc",
 			"date": "February-March 2020",
 			"technologies": "Unity, C#",
@@ -40,8 +40,8 @@
 		{
 			"name": "Purgo space",
 			"date": "January 2020",
-			"photo": "purgo_space.PNG",
-			"inside_photo": "purgo_space_inside.PNG",
+			"photo": "purgo_space.png",
+			"inside_photo": "purgo_space_inside.png",
 			"description": "Together with 3 of my friends we created a piece of software to tackle the issue of trash in cities. One part of the solution is a mobile application that shows you on a map where trashes and bins are so that you could scan a trash with your camera, put it in a bin and earn up to 5 pounds in voucher rewards. The map also shows you how full each bin is (we developed a piece of hardware that could be put inside bins to check for this). Apart from the mobile application we also developed a web application for people overseeing the project and a machine learning algorithm that could detect trashes on the streets from video footage of cameras that are attached to cars/public transport so that we have the data to put in the mobile application. The project was created during the 'Hack Cambridge 2020' hackathon and won two awards: 'Green IoT - best use of IoT in a project that tackles environmental issue' and 'MongoDB challenge - best use of MongoDB database'. My job was creating back-end for the project. I set up communication between hardware and mobile front-end and I built a database of users and trashes. I also helped with developing the web application front-end.",
 			"devpost": "https://devpost.com/software/hackcambridge2020-s9vw0g",
 			"github": "https://github.com/KramPiotr/HackCambridge2020",
@@ -51,7 +51,7 @@
 		{
 			"name": "Catch me if you can",
 			"date": "December 2019",
-			"photo": "catch_me_if_you_can.PNG",
+			"photo": "catch_me_if_you_can.png",
 			"video": "https://youtu.be/h9lFfxmlyWc",
 			"description": "A 2-player game in which you try to catch the other player in a limited amount of time on a playground with a lot of obstacles. I created the game with my friend in the Unity framework during the Game Gig 2019 hackathon in Cambridge.",
 			"github": "https://github.com/KramPiotr/Catch-Me-If-You-Can",
@@ -62,7 +62,7 @@
 		{
 			"name": "Weather app",
 			"date": "May 2019",
-			"photo": "weather_app.PNG",
+			"photo": "weather_app.png",
 			"video": "https://youtu.be/A0uONoiOwas",
 			"description": "Together with 4 other students from my year we created a weather application in JavaFX that lets you display and customize the display of current weather conditions for different cities around the world, The desktop application was developed for the Interactive Design course from the first year of the Computer Science course at the University of Cambridge.",
 			"github": "https://github.com/KramPiotr/WeatherApp2019",
@@ -71,8 +71,8 @@
 		{
 			"name": "BlokeChain",
 			"date": "March 2019",
-			"photo": "blokechain.PNG",
-			"inside_photo": "blokechain_inside.PNG",
+			"photo": "blokechain.png",
+			"inside_photo": "blokechain_inside.png",
 			"description": "Together with 3 other friends we created a decentralized application to verify medical prescriptions using TODA protocol. The project won the People's choice award during the Cambridge-Bradfield hackathon 2019.",
 			"devpost": "https://devpost.com/software/cbhack",
 			"github": "https://github.com/KramPiotr/CBHack",
@@ -81,7 +81,7 @@
 		},
 		{
 			"name": "SuPORT",
-			"photo": "wawcode.PNG",
+			"photo": "wawcode.png",
 			"video": "https://youtu.be/bRJzsE_hmN4",
 			"description": "Together with 2 of my friends we created a mobile app that gives users real-time information about current state of different sport centres/playing fields (number of people occupying the object, whether they are actively playing etc.) so that it's easier for users to group up for team sports. We created the project during the spring edition of the 'Wawcode 2019' hackathon and we won 2nd place award. I was in charge of developing the mobile application and my friends developed machine learning models used for analyzing CCTV footages.",
 			"technologies": "Android, Java, XML",
@@ -90,7 +90,7 @@
 		{
 			"name": "PDF combiner",
 			"date": "January 2020",
-			"photo": "pdf_combine.PNG",
+			"photo": "pdf_combine.png",
 			"video": "https://youtu.be/hsCFdxK1R9Y",
 			"description": "I created a simple end-to-end program to preview, extract and combine pages from different pdfs together with images. It was the first time I used Tkinter python framework for GUI creation. I did it for a private use and to have some learning and fun over the winter break.",
 			"technologies": "Python, Tkinter library"
@@ -98,8 +98,8 @@
 		{
 			"name": "Luno challenge",
 			"date": "July-August 2020",
-			"photo": "luno_challenge.PNG",
-			"inside_photo": "luno_challenge_inside.PNG",
+			"photo": "luno_challenge.png",
+			"inside_photo": "luno_challenge_inside.png",
 			"description": "Together with 2 other friends we built a trading bot for the Luno exchange and run it on my Raspberry Pi 4B. We created the bot to take part in the Luno challenge which was one of the challenges in the Spark University Hackathon. During 8 weeks of the hackathon we tried and utilised the common trading techniques like arbitrage, moving averages and linear regression to trade with different cryptocurrencies. We ended up making profit of around 40 dollars and finished the hackathon on the 5th position (from around 30 teams).",
 			"extralink": "https://medium.com/encode-club/spark-university-hackathon-summary-and-winners-3c5e5a743b12#5a28:~:text=Piotr%20Kram%E2%80%99s%20team",
 			"technologies": "Python, Raspberry Pi 4B"
@@ -107,7 +107,7 @@
 		{
 			"name": "WiFi Fever",
 			"date": "December 2018",
-			"photo": "wifi_fever.PNG",
+			"photo": "wifi_fever.png",
 			"video": "https://youtu.be/f16HjZgMysg",
 			"description": "A game in which you have to place an object (a router) so that the sum of the distances from other objects (phones) is the smallest possible. I created the game in the Love2D framework during the Game Gig 2018 hackathon in Cambridge. It was the first hackathon I participated in.",
 			"devpost": "https://devpost.com/software/wifi-fever",
@@ -117,8 +117,8 @@
 		{
 			"name": "Educational webpage",
 			"date": "October 2016 - May 2017",
-			"photo": "inwersja.PNG",
-			"inside_photo": "inwersja_inside.PNG",
+			"photo": "inwersja.png",
+			"inside_photo": "inwersja_inside.png",
 			"description": "I created an interactive website popularizing inversion, a very useful transformation in geometry, using the funds from the Mazovian scholarship for talented students. Sadly, after a few years of online presence, the webpage is no longer available on the internet.",
 			"technologies": "PHP, HTML, CSS, JavaScript",
 			"extralink": "https://stypendia.oeiizk.waw.pl/"
