@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Sidebar from './Components/Sidebar';
 import Landing from './Components/Landing';
+import Projects from './Components/Projects';
 import Experience from './Components/Experience';
 import Education from './Components/Education';
 import Skills from './Components/Skills';
@@ -15,6 +16,7 @@ class App extends Component {
 
     this.state = {
       landingData : profileData.landing,
+      projects : profileData.projects,
       experience : profileData.experience,
       education : profileData.education,
       skills : profileData.skills,
@@ -31,6 +33,8 @@ class App extends Component {
         <Sidebar sidebarData={this.state.landingData} />
         <div className="container-fluid p-0">
           <Landing landingData={this.state.landingData} />
+          <hr className="m-0" />
+          <Projects projects={this.state.projects} />
           <hr className="m-0" />
           <Experience experience={this.state.experience} />
           <hr className="m-0" />

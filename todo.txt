@@ -1,1 +1,3 @@
-- zdjecie troche jak nagrobkowe
+- zdjecie troche jak nagrobkowe - na razie jest spoko
+- dodaj descriptions under awards - na razie nie    
+- fix CV

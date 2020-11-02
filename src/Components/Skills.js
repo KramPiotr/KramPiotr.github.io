@@ -4,10 +4,15 @@ import { faCheckCircle, faCertificate } from "@fortawesome/free-solid-svg-icons"
 
 
 class Skills extends Component {
-  constructor(props) {
+  constructor(props){
     super(props);
-
     this.skills = props.skills;
+    for (let section in this.skills){
+      if(section === "certificates"){
+        continue;
+      }
+      this.skills[section].sort((s1, s2) => s1.name > s2.name ? 1 : -1)
+    }
   }
 
   render() {
@@ -25,8 +30,9 @@ class Skills extends Component {
                 <div class="col-sm-auto"><FontAwesomeIcon icon={faCertificate} color="#eb3102" /></div>
                 <div class="col">
                 <div class="row">{data.name}</div>
-                {!!data.organization && <div class="row small text-secondary">Issuing organization: {data.organization}</div>}
-                {!!data.credentialID && <div class="row small text-secondary">Credential ID: {data.credentialID}</div>}
+                {!!data.organization && <div class="row small text-secondary">Issuing organization: &nbsp;<span className="font-weight-bold"> {data.organization}</span></div>}
+                {!!data.credentialID && <div class="row small text-secondary">Credential ID: &nbsp;<span className="font-weight-bold"> {data.credentialID}</span></div>}
+                {!!data.description && <div class="row small text-secondary">Description: &nbsp;<span className="font-weight-bold" style={{maxWidth: "300px"}}> {data.description}</span></div>}
                 </div>
                 </div>
                 </p>
