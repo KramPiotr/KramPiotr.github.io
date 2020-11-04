@@ -211,6 +211,7 @@ a:hover, a:focus, a:active {
   background: #eb310280; 
   overflow: hidden;
   position: relative;
+  max-width: 480px;
 }
 
 .portfolio__img {
