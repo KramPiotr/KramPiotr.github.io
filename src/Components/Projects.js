@@ -28,7 +28,7 @@ function ProjectModal(props) {
         <Modal.Body>
           <div className="project__body">
             <div className="row">
-              <div className="col">
+              <div className="col" style={{marginBottom: "1rem"}}>
                 {
                   ((!!item.video) &&                 
                   (
