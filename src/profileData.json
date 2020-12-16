@@ -148,26 +148,18 @@
 			"toDate": "October 2019"
 		},
 		{
-			"position": "Educational Consultant",
-			"organization": "Akademia Ivy Poland",
-			"aboutWork": "teaching theoretical and practical machine learning (from 25.03.2020 until 27.08.2020). Together with my student we went through all of the main branches and algorithms of machine learning (traditional methods as well as deep learning).",
-			"fromDate": "January 2019",
-			"toDate": "Present"
-		},
-		{
-			"position": "Participant in a mini-internship organized by the Polish National Fund for Gifted Children",
-			"organization": "Nencki Institute of Experimental Biology - Laboratory of Neuroinformatics",
-			"aboutWork": "creating and optimazing neural networks using the Keras API",
-			"fromDate": "June 2018",
-			"toDate": "June 2018"
-		},
-		{
 			"position": "Mobile Development Intern",
 			"organization": "Connectis_",
 			"aboutWork": "creating software in Xamarin technology for the Android platform (api 19+)",
 			"fromDate": "July 2017",
 			"toDate": "August 2017"
+		},
+		{
+			"position": "Educational Consultant, Private Tutor",
+			"organization": "Various organizations",
+			"aboutWork": "teaching theoretical and practical machine learning (from 03.2020 until 08.2020)\npreparing a student for the admission exam and interviews for Computer Science at the University of Cambridge (11.2020)\nteaching computer architecture (from 10.2020 until 12.2020)"
 		}
+
 	],
 	"education": [{
 			"university": "University of Cambridge",
