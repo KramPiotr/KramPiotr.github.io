@@ -13,6 +13,11 @@ class Skills extends Component {
       }
       this.skills[section].sort((s1, s2) => s1.name > s2.name ? 1 : -1)
     }
+    this.description = [
+      {name: "Issuing organization", key: "organization"},
+      {name: "Credential ID", key: "credentialID"},
+      {name: "Description", key: "description"}
+    ]
   }
 
   render() {
@@ -30,9 +35,23 @@ class Skills extends Component {
                 <div class="col-sm-auto"><FontAwesomeIcon icon={faCertificate} color="#eb3102" /></div>
                 <div class="col">
                 <div class="row">{data.name}</div>
-                {!!data.organization && <div class="row small text-secondary">Issuing organization: &nbsp;<span className="font-weight-bold"> {data.organization}</span></div>}
+                {
+                  this.description.map((descr, index) => (
+                      !!data[descr.key] &&
+                      <div class="row small text-secondary">
+                          <div style={{width: "120px"}}>{descr.name}</div>
+                          <div class="col-sm-auto">:</div>
+                          <div class="col-sm-auto" style={{maxWidth: "300px"}}>
+                            <span className="font-weight-bold">
+                              {data[descr.key]}
+                            </span>
+                          </div>
+                      </div>
+                  ))
+                }
+                {/* {!!data.organization && <div class="row small text-secondary">Issuing organization: &nbsp;<span className="font-weight-bold"> {data.organization}</span></div>}
                 {!!data.credentialID && <div class="row small text-secondary">Credential ID: &nbsp;<span className="font-weight-bold"> {data.credentialID}</span></div>}
-                {!!data.description && <div class="row small text-secondary">Description: &nbsp;<span className="font-weight-bold" style={{maxWidth: "300px"}}> {data.description}</span></div>}
+                {!!data.description && <div class="row small text-secondary">Description: &nbsp;<span className="font-weight-bold" style={{maxWidth: "300px"}}> {data.description}</span></div>} */}
                 </div>
                 </div>
                 </p>

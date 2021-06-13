@@ -176,6 +176,15 @@
 			"toDate": "May 2018"
 		}
 	],
+	"presentations": [{
+			"title": "Deep Learning in Medical Imaging - a Practical Introduction",
+			"name": "AI in radiological diagnostics",
+			"location": "Online - Greifswald Medical School",
+			"date": "11 January 2021",
+			"url": "https://ai-radiology.eu/deep-learning-in-medical-imaging-a-practical-introduction/",
+			"video": "https://www.youtube.com/watch?v=3s3ui6Jq6zs"
+		}
+	],
 	"skills": 
 	{"certificates":[{
 		"name": "Machine Learning",

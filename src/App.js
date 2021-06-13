@@ -4,6 +4,7 @@ import Landing from './Components/Landing';
 import Projects from './Components/Projects';
 import Experience from './Components/Experience';
 import Education from './Components/Education';
+import Presentations from './Components/Presentations';
 import Skills from './Components/Skills';
 import Interests from './Components/Interests';
 import Awards from './Components/Awards';
@@ -19,6 +20,7 @@ class App extends Component {
       projects : profileData.projects,
       experience : profileData.experience,
       education : profileData.education,
+      presentations : profileData.presentations,
       skills : profileData.skills,
       interests : profileData.interests,
       awards : profileData.awards
@@ -39,6 +41,8 @@ class App extends Component {
           <Experience experience={this.state.experience} />
           <hr className="m-0" />
           <Education education={this.state.education}/>
+          <hr className="m-0" />
+          <Presentations presentations={this.state.presentations}/>
           <hr className="m-0" />
           <Skills skills={this.state.skills} />
           <hr className="m-0" />

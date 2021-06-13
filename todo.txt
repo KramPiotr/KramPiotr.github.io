@@ -1,4 +1,10 @@
 - zdjecie troche jak nagrobkowe - na razie jest spoko
 - dodaj descriptions under awards - na razie nie    
+
 - fix CV
 - map your CV into latex and create a script to recreate your CV every time you add a new achievement
+- fix presentations section when resizing
+- zmien date tutoringu
+- scholar i recipient z wielkiej
+
+- add Part II project
