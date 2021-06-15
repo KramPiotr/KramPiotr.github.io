@@ -10,6 +10,15 @@
 	},
 	"projects": [
 		{
+			"name": "Music generation",
+			"date": "October 2020 - May 2021",
+			"photo": "music_generation.png",
+			"video": "https://youtu.be/YmnZM8d9GCg", 
+			"description": "This was my 3rd year dissertation project at the University of Cambridge. During the seven months of allocated time, I developed and evaluated three music generation methods: two variants of recurrent neural networks that use the attention mechanism and a Markov chain. Moreover, I published a dynamic web application that was used to evaluate the music against other music generation methods like a random generator, a state of the art music generator and a human composer. The website also allows for real-time music generation using the Markov chain. Apart from that, I designed an algorithm to flag plagiarism in music pieces. The video presented here contains a walk-through of the web application.",
+			"technologies": "Python and its libraries i.a. Music21, Tensorflow, Keras, Magenta, Matplotlib, Seaborn, Numpy, Pandas;  FFmpeg; FluidSynth; React Native; JavaScript; CSS; Express.js; Node.js; Linux - high-performance computing, dynamic web hosting; LaTeX",
+			"extralink": "https://pk485.user.srcf.net/"
+		},
+		{
 			"name": "Hero",
 			"date": "November-December 2019",
 			"photo": "hero.png",
@@ -21,11 +30,11 @@
 			"extralink": "http://oxfordhack.com/"
 		},
 		{
-			"name": "Machine Learning tutoring",
+			"name": "Machine learning tutoring",
 			"date": "March-August 2020",
 			"photo": "machine_learning_classes.png",
 			"inside_photo": "machine_learning_classes_inside.png",
-			"technologies": "IPython in Google Colaboratory, Python and its libraries i.a. Scikit-learn, Numpy, Pandas, Tensorflow, Keras, Matplotlib",
+			"technologies": "IPython in Google Colaboratory; Python and its libraries i.a. Scikit-learn, Numpy, Pandas, Tensorflow, Keras, Matplotlib",
 			"description": "As a tutor, together with my student we went through practical fundamentals of machine learning. The main topics we covered: linear regression, logistic regression, support vector machines, decision trees, ensemble learning and random forests, dimensionality reduction, unsupervised learning techniques, basic neural networks, convolutional neural networks, recurrent neural networks, natural language processing, autoencoders, generative adversarial networks, reinforcement learning, tutorial of tensorflow 2.0, advanced tensorflow/IPython tools, basics of quantum computing in machine learning. For each topics we went through practical implementations in python with thorough understanding and experimentation."
 		},
 		{
@@ -157,7 +166,7 @@
 		{
 			"position": "Educational Consultant, Private Tutor",
 			"organization": "Various organizations",
-			"aboutWork": "teaching theoretical and practical machine learning (from 03.2020 until 08.2020)\npreparing a student for the admission exam and interviews for Computer Science at the University of Cambridge (11.2020)\nteaching computer architecture (from 10.2020 until 12.2020)"
+			"aboutWork": "teaching theoretical and practical machine learning (from 03.2020 until 08.2020)\npreparing a student for the admission exam and interviews for Computer Science at the University of Cambridge (11.2020)\nteaching computer architecture (from 10.2020 until 01.2021)"
 		}
 
 	],
@@ -177,10 +186,13 @@
 		}
 	],
 	"presentations": [{
-			"title": "Deep Learning in Medical Imaging - a Practical Introduction",
-			"name": "AI in radiological diagnostics",
+			"original_title": "Deep Learning in Medical Imaging - a Practical Introduction",
+			"short_title": "Medical Computer Vision",
+			"photo": "deep_learning.png",
+			"conference": "AI in radiological diagnostics",
 			"location": "Online - Greifswald Medical School",
 			"date": "11 January 2021",
+			"description": "I was honoured to have the opportunity to present during a conference about the use of AI in radiological diagnostics. I gave a talk that introduces participants to the world of deep learning, medical imaging and deep learning applied to medical imaging. I finished the presentation with a practical walk-through of the code I created to solve a simple pneumonia detection problem.",
 			"url": "https://ai-radiology.eu/deep-learning-in-medical-imaging-a-practical-introduction/",
 			"video": "https://www.youtube.com/watch?v=3s3ui6Jq6zs"
 		}
@@ -333,13 +345,13 @@
 			"awardDetail": "the Laureate of the 11th polish edition of the International Challenge on Informatics and Computational Thinking 'Bebras'"
 		},
 		{
-			"awardDetail": "the recipient of the Mazovian scholarship for talented students awarded for a project concerned with creating an interactive website popularizing inversion - one of the most important mathematical transformations"
+			"awardDetail": "the Recipient of the Mazovian scholarship for talented students awarded for a project concerned with creating an interactive website popularizing inversion - one of the most important mathematical transformations"
 		},
 		{
 			"awardDetail": "the Laureate of the 10th edition of the Mathematical Olympiad for Lower Secondary School Students"
 		},
 		{
-			"awardDetail": "the scholar of the Polish National Fund for Gifted Children"
+			"awardDetail": "the Scholar of the Polish National Fund for Gifted Children"
 		},
 		{
 			"awardDetail": "2nd place in the international, team mathematical competition NABOJ 2015/2016"
