@@ -2,3 +2,4 @@
 - dodaj descriptions under awards - na razie nie    
 
 - map your CV into latex and create a script to recreate your CV every time you add a new achievement - na razie nie
+- fix the projects description for a phone

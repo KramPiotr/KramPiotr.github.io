@@ -2,8 +2,8 @@
 	"landing": {  
 		"firstName": "Piotr",
 		"lastName": "Kram",
-		"bio": "I am a Computer Science student at the University of Cambridge interested in machine learning, full-stack development and generally applied Computer Science. I am very ambitious and curious about the world. I don't like plateau and too much monotony. I enjoy solving new problems, creative thinking and learning.",
-		"email": "pk485@cam.ac.uk",
+		"bio": "I am a 2021 Computer Science graduate from the University of Cambridge interested in algorithmics, research, optimisation problems, machine learning, full-stack development and generally applied Computer Science. I am very ambitious and curious about the world. I don't like plateau and too much monotony. I enjoy solving new problems, creative thinking and learning.",
+		"email": "piotr.kram7@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
 		"github": "https://github.com/KramPiotr",
 		"devpost": "https://devpost.com/PiotrKram"
@@ -136,6 +136,13 @@
 	],
 	"experience": [
 		{
+			"position": "Enterprise Engineer Intern",
+			"organization": "Facebook",
+			"aboutWork": "working on React Native front-end (creating, modifying, connecting to back-end)\nquerying internal back-end databases using Hack, a dialect of PHP\nexposing back-end data via GraphQL API",
+			"fromDate": "June 2021",
+			"toDate": "September 2021"
+		},
+		{
 			"position": "Software Development Engineer Intern",
 			"organization": "Amazon",
 			"aboutWork": "worked on decoupling lexicon building for different languages (a lot of problem solving around internal Amazon software and my Linux Cloud Desktop)\ncreated and published online a package (using mainly python, bash and a dialect of scheme) responsible for grapheme to phoneme training",
@@ -175,7 +182,7 @@
 			"degree": "B.A. in Computer Science",
 			"gpa": "",
 			"fromDate": "October 2018",
-			"toDate": "Present"
+			"toDate": "June 2021"
 		},
 		{
 			"university": "XIV High School in Warsaw",
@@ -263,6 +270,12 @@
 		},
 	    {
 			"name": "Bash"
+		},
+		{
+			"name": "Hack, a dialect of PHP"
+		},
+		{
+			"name": "GraphQL"
 		}],
 	"paradigmsAndTools":[{
 			"name": "Machine Learning and Data Processing in Python (numpy, pandas, scikit-learn, matplotlib, keras, tensorflow)"
