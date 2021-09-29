@@ -10,7 +10,7 @@ class Experience extends Component {
   }
 
   render() {
-    return(
+    return (
       <section className="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
         <div className="w-100">
           <h2 className="mb-5">Experience</h2>
@@ -19,19 +19,25 @@ class Experience extends Component {
               <div key={index} className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="resume-content">
                   <h3 className="mb-0">{exp.position}</h3>
-                  <div className="subheading mb-3">{exp.organization}</div>
+                  <div className="subheading mb-0">{exp.organization}</div>
+                  {
+                    exp.team && <div className="subsubheading mb-3">{exp.team} Team</div>
+                  }
+                  {
+                    !exp.team && <div className="subsubheading mb-3"></div>
+                  }
                   {
                     exp.aboutWork.split("\n").map((item, i) => {
-                      if (!item.length){
+                      if (!item.length) {
                         return null;
                       }
                       return <p key={i} className="list-item mb-0">
-                      <div class="row">
-                      <div class="col-sm-auto"><FontAwesomeIcon icon={faCheck} color="#eb3102" /></div>
-                      <div class="col">
-                        {item}
-                      </div>
-                      </div>
+                        <div class="row">
+                          <div class="col-sm-auto"><FontAwesomeIcon icon={faCheck} color="#eb3102" /></div>
+                          <div class="col">
+                            {item}
+                          </div>
+                        </div>
                       </p>;
                     })
                   }

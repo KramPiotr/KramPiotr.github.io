@@ -2,7 +2,7 @@
 	"landing": {  
 		"firstName": "Piotr",
 		"lastName": "Kram",
-		"bio": "I am a 2021 Computer Science graduate from the University of Cambridge interested in algorithmics, research, optimisation problems, machine learning, full-stack development and generally applied Computer Science. I am very ambitious and curious about the world. I don't like plateau and too much monotony. I enjoy solving new problems, creative thinking and learning.",
+		"bio": "I am a 2021 Computer Science graduate from the University of Cambridge interested in algorithmics, research, optimisation, machine learning, full-stack development and generally applied Computer Science. I enjoy problem solving, creative thinking, learning and all-round development. I dislike too much monotony and stagnation.",
 		"email": "piotr.kram7@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
 		"github": "https://github.com/KramPiotr",
@@ -136,15 +136,25 @@
 	],
 	"experience": [
 		{
+			"position": "Software Engineer",
+			"organization": "DRW",
+			"team": "Equity Index Futures",
+			"aboutWork": "",
+			"fromDate": "October 2021",
+			"toDate": "Present"
+		},
+		{
 			"position": "Enterprise Engineer Intern",
 			"organization": "Facebook",
-			"aboutWork": "working on React Native front-end (creating, modifying, connecting to back-end)\nquerying internal back-end databases using Hack, a dialect of PHP\nexposing back-end data via GraphQL API",
+			"team": "Logistics & Operations - Material Movements",
+			"aboutWork": "completed a project that manages outstanding work items in Facebook's internal data centres\nworked full-stack: Hack (dialect of PHP created by Facebook) and GraphQL for back-end, React Native for front-end",
 			"fromDate": "June 2021",
 			"toDate": "September 2021"
 		},
 		{
 			"position": "Software Development Engineer Intern",
 			"organization": "Amazon",
+			"team": "Alexa Speech",
 			"aboutWork": "worked on decoupling lexicon building for different languages (a lot of problem solving around internal Amazon software and my Linux Cloud Desktop)\ncreated and published online a package (using mainly python, bash and a dialect of scheme) responsible for grapheme to phoneme training",
 			"fromDate": "August 2020",
 			"toDate": "October 2020"
@@ -152,6 +162,7 @@
 		{
 			"position": "Technology Development Intern",
 			"organization": "Barclays",
+			"team": "Public Cloud Engineering",
 			"aboutWork": "worked on detecting duplication between AWS Cloud Formation templates\npre-processed the templates and created a GUI (using the tkinter library in python) for experts to compare and see differences between different template fragments",
 			"fromDate": "July 2020",
 			"toDate": "August 2020"
@@ -159,21 +170,23 @@
 		{
 			"position": "Software Engineering Intern",
 			"organization": "Utterberry",
-			"aboutWork": "creating web applications in JavaScript\nanalyzing 3D transformations and their implementations in Three.js\ncreating mobile applications in React Native\ncreating backend using Express.js and MongoDB",
+			"aboutWork": "worked on web applications in JavaScript\nanalysed 3D transformations and their implementations in Three.js\nworked on mobile applications in React Native\ncoded simple backends using Express.js and MongoDB",
 			"fromDate": "June 2019",
 			"toDate": "October 2019"
 		},
 		{
 			"position": "Mobile Development Intern",
 			"organization": "Connectis_",
-			"aboutWork": "creating software in Xamarin technology for the Android platform (api 19+)",
+			"aboutWork": "worked on a mobile application in Xamarin technology for the Android platform (api 19+)",
 			"fromDate": "July 2017",
 			"toDate": "August 2017"
 		},
 		{
 			"position": "Educational Consultant, Private Tutor",
 			"organization": "Various organizations",
-			"aboutWork": "teaching theoretical and practical machine learning (from 03.2020 until 08.2020)\npreparing a student for the admission exam and interviews for Computer Science at the University of Cambridge (11.2020)\nteaching computer architecture (from 10.2020 until 01.2021)"
+			"aboutWork": "taught theoretical and practical machine learning (from 03.2020 until 08.2020)\nprepared students for the admission exam and interviews for the Computer Science course at the best UK universities\ntaught computer architecture (from 10.2020 until 01.2021)\nsupervised computer architecture course programming assignments in C (from 07.2021 until 08.2021)\nsupervised AI course programming assignments in Python (from 09.2021 until 11.2021)",
+			"fromDate": "March 2020",
+			"toDate": "Present"
 		}
 
 	],
