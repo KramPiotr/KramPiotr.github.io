@@ -147,7 +147,7 @@
 			"position": "Enterprise Engineer Intern",
 			"organization": "Facebook",
 			"team": "Logistics & Operations - Material Movements",
-			"aboutWork": "completed a project that manages outstanding work items in Facebook's internal data centres\nworked full-stack: Hack (dialect of PHP created by Facebook) and GraphQL for back-end, React Native for front-end",
+			"aboutWork": "completed a project that manages outstanding work items in Facebook's data centres\nworked full-stack: Hack (dialect of PHP created by Facebook) and GraphQL for back-end, React Native for front-end",
 			"fromDate": "June 2021",
 			"toDate": "September 2021"
 		},
@@ -170,7 +170,7 @@
 		{
 			"position": "Software Engineering Intern",
 			"organization": "Utterberry",
-			"aboutWork": "worked on web applications in JavaScript\nanalysed 3D transformations and their implementations in Three.js\nworked on mobile applications in React Native\ncoded simple backends using Express.js and MongoDB",
+			"aboutWork": "worked on web applications in JavaScript\nanalysed 3D transformations and their implementations in Three.js\nworked on mobile applications in React Native\ncoded simple back-ends using Express.js and MongoDB",
 			"fromDate": "June 2019",
 			"toDate": "October 2019"
 		},
