@@ -19,7 +19,9 @@ class Experience extends Component {
               <div key={index} className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div className="resume-content">
                   <h3 className="mb-0">{exp.position}</h3>
-                  <div className="subheading mb-0">{exp.organization}</div>
+                  {
+                    exp.organization && <div className="subheading mb-0">{exp.organization}</div>
+                  }
                   {
                     exp.team && <div className="subsubheading mb-3">{exp.team} Team</div>
                   }
