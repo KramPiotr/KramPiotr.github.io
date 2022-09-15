@@ -2,7 +2,7 @@
 	"landing": {  
 		"firstName": "Piotr",
 		"lastName": "Kram",
-		"bio": "I am a 2021 Computer Science graduate from the University of Cambridge interested in algorithmics, research, optimisation, machine learning, full-stack development and generally applied Computer Science. I enjoy problem solving, creative thinking, learning and all-round development. I dislike too much monotony and stagnation.",
+		"bio": "I am a Software Engineer at DRW interested in algorithmics, research, optimisation, machine learning, full-stack development and generally applied Computer Science. I enjoy problem solving, creative thinking, learning and all-round development. I dislike too much monotony and stagnation.",
 		"email": "piotr.kram7@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
 		"github": "https://github.com/KramPiotr",
@@ -138,8 +138,8 @@
 		{
 			"position": "Software Engineer",
 			"organization": "DRW",
-			"team": "Equity Index Futures",
-			"aboutWork": "",
+			"team": "Global Delta 1",
+			"aboutWork": "creating and supporting trading software utilising Java, JavaScript, Python, Bash and Zsh programming languages",
 			"fromDate": "October 2021",
 			"toDate": "Present"
 		},
