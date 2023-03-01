@@ -40,7 +40,7 @@ class Landing extends Component {
                     </g>
                   </svg>
                 </a>
-                <a href="Piotr_Kram_CV.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="cv.html" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faFileDownload} />
                 </a>
               </div>

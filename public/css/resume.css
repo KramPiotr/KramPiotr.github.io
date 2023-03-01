@@ -399,3 +399,10 @@ a:hover, a:focus, a:active {
 .my-col{
   min-width: 300px;
 }
+
+.btn-close{
+  background: transparent url('../images/projects/close.png');
+  width: 16px;
+  height: 16px;
+  border-width: 0px;
+}
