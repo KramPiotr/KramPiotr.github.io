@@ -22,3 +22,4 @@ yarn-debug.log*
 yarn-error.log*
 encrypt_url.py
 .yarn
+*~
