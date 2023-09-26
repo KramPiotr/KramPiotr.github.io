@@ -1,8 +1,5 @@
 var button = document.querySelectorAll('[data-id="button"]')
 var password = document.querySelectorAll('[data-id="password"]')
-// var encryptedUrlHash = "U2FsdGVkX19Qga51A8wZfBhj0UEr1DfIdF8oNzX9vJIoA7V+zAxH/8d7VJ97/1j"
-// var encryptedUrlHash = "U2FsdGVkX18uZB9kaBLlV13vvRRq0nEC3C33YPusQ17zjoF6cqgAn531P8ABnUt9Qj5te3pIFHsZm499PkxiuQLb5PWvYHqXFcBpsMH5RYHaDkoLiIVIN+JumbtzlOBaMMKTLFIccyn8de+cO9IyRg==";
-// var encryptedUrlHash = 'U2FsdGVkX19EIUwlWFI8/MZveq02ak9izoMdbL6BNuXHL7PhsnftbdugsC3phlFZBRm7Aaq/Igetd66vjcSJfTMiru3FWRw7oRzRXHCK69VAMEm+rzVVDEcmXvB9qs80';
 var encryptedUrlHash = 'U2FsdGVkX1/oyOxLU9lZhq461WTRKQf5AOc7g1M//fc1R1nyvWTpsMrXDnHr0jj9I2jSjCqtoZLYeWrzn3oVHkIUA3qGisaPtXtx1NA1K79repM1+dsvorgK6qEXusWG';
 function login(secret) {
 
