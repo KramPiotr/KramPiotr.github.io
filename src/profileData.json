@@ -227,6 +227,16 @@
 		"name": "Google Code-in 2017",
 		"organization": "Google",
 		"description": "completed 3 programming tasks concerned with open-source software"
+	},
+	{
+		"name": "Intensive Solidity Bootcamp",
+		"organization": "Encode",
+		"description": "8-week intensive, hands-on solidity bootcamp that finished in 09/2023. The final project I built was an AI NFT generator"
+	},
+	{
+		"name": "Zero Knowledge (ZK) Bootcamp",
+		"organization": "Encode",
+		"description": "5-week ZK bootcamp"
 	}
 	],	
 		"languagesAndFrameworks":[
@@ -282,7 +292,10 @@
 			"name": "SQL"
 		},
 	    {
-			"name": "Bash"
+			"name": "Bash, ZSH"
+		},
+	    {
+			"name": "Solidity"
 		},
 		{
 			"name": "Hack, a dialect of PHP"
