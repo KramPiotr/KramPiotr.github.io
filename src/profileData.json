@@ -10,6 +10,15 @@
 	},
 	"projects": [
 		{
+			"name": "SecretFans",
+			"date": "November 2023",
+			"photo": "secretfans.png",
+			"video": "https://youtu.be/JGcaZy1e6o8",
+			"description": "Me and my teammates created this project during the ETHGlobal Istanbul 2023 hackathon. It is a privacy-oriented content creators platform that uses ZKPs and complicated tokenomics. I was responsible for the whole front-end as well as some smart contracts development and some NFT integrations. The project won 3 awards: Metamask Snap runner-up prize, Worldcoin pool prize and Scroll pool prize.",
+			"technologies": "Next.js, Chakra UI, Scaffold.Eth, IPFS, Hardhat, NFT Storage, Solidity, Ethers.js",
+			"extralink": "https://ethglobal.com/showcase/secret-fans-4snrg"
+		},
+		{
 			"name": "Music generation",
 			"date": "October 2020 - May 2021",
 			"photo": "music_generation.png",
@@ -259,7 +268,7 @@
 			"name": "React Native"
 		},
 		{
-			"name": "React"
+			"name": "React, Next.js"
 		},
 		{
 			"name": "Xamarin"
@@ -302,6 +311,24 @@
 		},
 		{
 			"name": "GraphQL"
+		},
+		{
+			"name": "IPFS"
+		},
+		{
+			"name": "Hardhat"
+		},
+		{
+			"name": "Nest.js"
+		},
+		{
+			"name": "Sway"
+		},
+		{
+			"name": "Rust"
+		},
+		{
+			"name": "Ethers.js"
 		}],
 	"paradigmsAndTools":[{
 			"name": "Machine Learning and Data Processing in Python (numpy, pandas, scikit-learn, matplotlib, keras, tensorflow)"
@@ -341,6 +368,9 @@
 		},
 		{
 			"name": "AWS services"
+		},
+		{
+			"name": "Web3 and Zero Knowledge"
 		}
 	]},
 	"interests": {
@@ -350,6 +380,9 @@
 	},
 	"awards": {
 	"university": [
+		{
+			"awardDetail": "Metamask Snap runner-up prize, Worldcoin pool prize and Scroll pool prize during the ETHGlobal Istanbul 2023 hackathon"
+		},
 		{
 			"awardDetail": "the Green IoT award and the MongoDB award during the 'Hack Cambridge 2020' hackathon"
 		},
