@@ -16,7 +16,17 @@
 			"video": "https://youtu.be/JGcaZy1e6o8",
 			"description": "Me and my teammates created this project during the ETHGlobal Istanbul 2023 hackathon. It is a privacy-oriented content creators platform that uses ZKPs and complicated tokenomics. I was responsible for the whole front-end as well as some smart contracts development and some NFT integrations. The project won 3 awards: Metamask Snap runner-up prize, Worldcoin pool prize and Scroll pool prize.",
 			"technologies": "Next.js, Chakra UI, Scaffold.Eth, IPFS, Hardhat, NFT Storage, Solidity, Ethers.js",
-			"extralink": "https://ethglobal.com/showcase/secret-fans-4snrg"
+			"extralink": "https://ethglobal.com/showcase/secret-fans-4snrg",
+			"github": "https://github.com/secretfans-eth/secretfans"
+		},
+		{
+			"name": "Hom3Page",
+			"date": "January 2023",
+			"photo": "hom3page.png",
+			"inside_photo": "hom3page_inside.png",
+			"description": "Me and my teammates created a decentralised wall of interactive web3 blocks that connects the web3 ecosystem and community. I was responsible for designing the back-end infrastructure for the blocks and example block dApps. I ended up using ICP for this purpose. The project won the Family Pool Prize.",
+			"technologies": "ICP, Motoko, NFT on ICP, Next.js",
+			"extralink": "https://ethglobal.com/showcase/hom3page-yvuwx"
 		},
 		{
 			"name": "Music generation",
@@ -380,6 +390,9 @@
 	},
 	"awards": {
 	"university": [
+		{
+			"awardDetail": "Family pool prize during the LFGHO 2023 remote hackathon"
+		},
 		{
 			"awardDetail": "Metamask Snap runner-up prize, Worldcoin pool prize and Scroll pool prize during the ETHGlobal Istanbul 2023 hackathon"
 		},
