@@ -21,10 +21,10 @@
 		},
 		{
 			"name": "Hom3Page",
-			"date": "January 2023",
+			"date": "January 2024",
 			"photo": "hom3page.png",
 			"inside_photo": "hom3page_inside.png",
-			"description": "Me and my teammates created a decentralised wall of interactive web3 blocks that connects the web3 ecosystem and community. I was responsible for designing the back-end infrastructure for the blocks and example block dApps. I ended up using ICP for this purpose. The project won the Family Pool Prize.",
+			"description": "Me and my teammates created a decentralised wall of interactive web3 blocks that connects the web3 ecosystem and community. I was responsible for designing the back-end infrastructure for the blocks and an example advanced block dApp using that architecture. I ended up using the IC blockchain infrastructure and the dApp I created can be used to create NFT collections and mint the NFTs created. The project won the Family Pool Prize and was created during the LFGHO 2024 hackathon.",
 			"technologies": "ICP, Motoko, NFT on ICP, Next.js",
 			"extralink": "https://ethglobal.com/showcase/hom3page-yvuwx"
 		},
@@ -391,7 +391,7 @@
 	"awards": {
 	"university": [
 		{
-			"awardDetail": "Family pool prize during the LFGHO 2023 remote hackathon"
+			"awardDetail": "Family pool prize during the LFGHO 2024 remote hackathon"
 		},
 		{
 			"awardDetail": "Metamask Snap runner-up prize, Worldcoin pool prize and Scroll pool prize during the ETHGlobal Istanbul 2023 hackathon"
