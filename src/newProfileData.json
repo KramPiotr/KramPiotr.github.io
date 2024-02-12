@@ -20,6 +20,15 @@
 			"github": "https://github.com/secretfans-eth/secretfans"
 		},
 		{
+			"name": "Hom3Page",
+			"date": "January 2024",
+			"photo": "hom3page.png",
+			"inside_photo": "hom3page_inside.png",
+			"description": "Me and my teammates created a decentralised wall of interactive web3 blocks that connects the web3 ecosystem and community. I was responsible for designing the back-end infrastructure for the blocks and an example advanced block dApp using that architecture. I ended up using the IC blockchain infrastructure and the dApp I created can be used to create NFT collections and mint the NFTs created. The project won the Family Pool Prize and was created during the LFGHO 2024 hackathon.",
+			"technologies": "ICP, Motoko, NFT on ICP, Next.js",
+			"extralink": "https://ethglobal.com/showcase/hom3page-yvuwx"
+		},
+		{
 			"name": "Music generation",
 			"date": "October 2020 - May 2021",
 			"photo": "music_generation.png",
