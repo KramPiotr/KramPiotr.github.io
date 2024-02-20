@@ -22,7 +22,7 @@
 		{
 			"name": "Wall-3",
 			"date": "February 2024",
-			"photo": "wall3.jpg",
+			"photo": "wall3.png",
 			"inside_photo": "wall3_inside.png",
 			"description": "During the Internet Computer hackathon by Encode I created Wall-3 - the home page of the web3 world. It's running and stored completely on blockchain. You can try it out in the link below! I am still waiting to hear back on the results.",
 			"technologies": "ICP, Motoko, NFT on ICP, Next.js",
