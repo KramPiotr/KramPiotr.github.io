@@ -14,7 +14,7 @@
 			"date": "February 2024",
 			"photo": "sira_index_fund.png",
 			"video": "https://www.youtube.com/watch?v=1oSzap9ne1g&ab_channel=PiotrKram",
-			"description": "During the DegenHack in Warsaw 2024 I created an index fund blockchain implementation on top of SIRA equity token and DEX implementations provided by the largest Polish bank: PKO BP. I demonstrated its use by creating an index fund for best Polish football teams. The project won one of the sponsor prizes.",
+			"description": "During the DegenHack in Warsaw 2024 I created a blockchain index fund implementation on top of the SIRA equity and DEX implementations provided by the largest Polish bank: PKO BP. I demonstrated its use by creating an index fund for the best Polish football teams. The project won one of the sponsor prizes.",
 			"technologies": "Solidity, Hardhat, Next.js",
 			"devpost": "https://devpost.com/software/sira-index",
 			"extralink": "https://docs.google.com/presentation/d/16O98WAjvsemlS00FpuFoTEplbltR3aJDLUgHw58R5g4/edit?usp=sharing"
@@ -401,6 +401,9 @@
 	},
 	"awards": {
 	"university": [
+		{
+			"awardDetail": "Whitechain & WhiteBIT prize during the DegenHack 2024 hackathon in Warsaw"
+		},
 		{
 			"awardDetail": "Family pool prize during the LFGHO 2024 remote hackathon"
 		},
