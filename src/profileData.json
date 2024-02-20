@@ -2,13 +2,33 @@
 	"landing": {  
 		"firstName": "Piotr",
 		"lastName": "Kram",
-		"bio": "I am a Cambridge University Computer Science graduate interested in algorithmics, research, optimisation, machine learning, full-stack development and generally applied Computer Science. I enjoy problem solving, creative thinking, learning and all-round development. I dislike too much monotony and stagnation.",
+		"bio": "I am a Cambridge University Computer Science graduate interested in web3, ZK, algorithmics, research, optimisation, machine learning, full-stack development and generally applied Computer Science. I enjoy problem solving, creative thinking, learning and all-round development.",
 		"email": "piotr.kram7@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
 		"github": "https://github.com/KramPiotr",
 		"devpost": "https://devpost.com/PiotrKram"
 	},
 	"projects": [
+		{
+			"name": "SIRA Index Fund",
+			"date": "February 2024",
+			"photo": "sira_index_fund.png",
+			"video": "https://www.youtube.com/watch?v=1oSzap9ne1g&ab_channel=PiotrKram",
+			"description": "During the DegenHack in Warsaw 2024 I created an index fund blockchain implementation on top of SIRA equity token and DEX implementations provided by the largest Polish bank: PKO BP. I demonstrated its use by creating an index fund for best Polish football teams. The project won one of the sponsor prizes.",
+			"technologies": "Solidity, Hardhat, Next.js",
+			"devpost": "https://devpost.com/software/sira-index",
+			"extralink": "https://docs.google.com/presentation/d/16O98WAjvsemlS00FpuFoTEplbltR3aJDLUgHw58R5g4/edit?usp=sharing"
+		},
+		{
+			"name": "Wall-3",
+			"date": "February 2024",
+			"photo": "wall3.jpg",
+			"inside_photo": "wall3_inside.png",
+			"description": "During the Internet Computer hackathon by Encode I created Wall-3 - the home page of the web3 world. It's running and stored completely on blockchain. You can try it out in the link below! I am still waiting to hear back on the results.",
+			"technologies": "ICP, Motoko, NFT on ICP, Next.js",
+			"github": "https://github.com/KramPiotr/icp-dashboard",
+			"extralink": "https://jz25f-niaaa-aaaal-adtkq-cai.icp0.io/"
+		},
 		{
 			"name": "SecretFans",
 			"date": "November 2023",
