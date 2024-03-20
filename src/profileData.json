@@ -10,6 +10,24 @@
 	},
 	"projects": [
 		{
+			"name": "Darkpool",
+			"date": "March 2024",
+			"photo": "darkpool.png",
+			"video": "https://youtu.be/EwZUydDezlA",
+			"description": "I created a Darkpool - a fully private implementation of an orderbook on-chain, with private prizes and quantities. I used FHE for this purpose. The project won the Institutational Blockchain Solutions prize from Nethermind",
+			"technologies": "Solidity, Hardhat, Next.js, FHE, Fhenix",
+			"extralink": "https://ethglobal.com/showcase/darkpool-s9oii"
+		},
+		{
+			"name": "In The Loop",
+			"date": "February-March 2024",
+			"photo": "in_the_loop.png",
+			"video": "https://youtu.be/lSFIqUUnlxE?si=4YgjS73wMrdVYQvO",
+			"description": "Me and my friend created a platform for artists to create a fine-grained IP licenses for their music pieces. We use a proprietary algorithm to compare music pieces and if there are any conflicts then we have a sophisticated on-chain peer review system to check for authenticity of the music pieces. We use Story Protocol to create the IP licenses. The project won 3rd prize from the Story Protocol and Integration Prize from Chainlink.",
+			"technologies": "Solidity, Hardhat, Foundry, Metamask, Wagmi 2.0, Next.js, Chainlink, FHE, Fhenix",
+			"extralink": "https://devfolio.co/projects/coal-in-the-loop-4ed3"
+		},
+		{
 			"name": "SIRA Index Fund",
 			"date": "February 2024",
 			"photo": "sira_index_fund.png",
@@ -401,6 +419,12 @@
 	},
 	"awards": {
 	"university": [
+		{
+			"awardDetail": "Nethermind Institutational Blockchain Solutions prize during ETH London 2024"
+		},
+		{
+			"awardDetail": "Story Protocol 3rd prize and Chainlink Integration prize during ETH Denver 2024"
+		},
 		{
 			"awardDetail": "Whitechain & WhiteBIT prize during the DegenHack 2024 hackathon in Warsaw"
 		},
