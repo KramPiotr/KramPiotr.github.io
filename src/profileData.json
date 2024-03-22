@@ -6,7 +6,8 @@
 		"email": "piotr.kram7@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/piotr-kram/",
 		"github": "https://github.com/KramPiotr",
-		"devpost": "https://devpost.com/PiotrKram"
+		"devpost": "https://devpost.com/PiotrKram",
+		"twitter": "https://twitter.com/kram_piotr"
 	},
 	"projects": [
 		{
@@ -414,7 +415,7 @@
 	]},
 	"interests": {
 		"paragraphOne": "Apart from Computer Science, I love sports. I regularly play football and work out at the gym.",
-		"paragraphTwo": "Moreover, I like music. I have graduated from a music school and in my free time I play the guitar, the piano and sing.",
+		"paragraphTwo": "Moreover, I like music. I have graduated from a music school and in my free time I play the guitar and the piano.",
 		"paragraphThree": "Additionally, I am very curious about the surrounding world. I learn languages (Spanish and German at the moment) and I read about psychology, geography, economy and politics."
 	},
 	"awards": {

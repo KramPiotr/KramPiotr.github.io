@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin, faXTwitter } from "@fortawesome/free-brands-svg-icons";
 import "./Landing.css";
 import { faFileDownload } from '@fortawesome/free-solid-svg-icons';
 
@@ -29,6 +29,9 @@ class Landing extends Component {
                 </a>
                 <a href={this.landingData.github} target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faGithub} />
+                </a>
+                <a href={this.landingData.twitter} target="_blank" rel="noopener noreferrer">
+                  <FontAwesomeIcon icon={faXTwitter} />
                 </a>
                 <a href={this.landingData.devpost} target="_blank" rel="noopener noreferrer">
                   <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="devpost" class="svg-inline--fa fa-w-14 " 
