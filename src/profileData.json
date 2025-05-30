@@ -185,6 +185,14 @@
 	],
 	"experience": [
 		{
+			"position": "Building",
+			"organization": "Something Cool",
+			"team": "",
+			"aboutWork": "",
+			"fromDate": "",
+			"toDate": ""
+		},
+		{
 			"position": "Software Engineer",
 			"organization": "DRW",
 			"team": "Global Delta 1",
