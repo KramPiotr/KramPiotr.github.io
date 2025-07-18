@@ -24,9 +24,9 @@ class Landing extends Component {
               </div>
               <p className="lead mb-5" style={{maxWidth: "600px"}}>{this.landingData.bio}</p>
               <div className="social-icons">
-                <a href={this.landingData.linkedin} target="_blank" rel="noopener noreferrer">
-                  <FontAwesomeIcon icon={faLinkedin} />
-                </a>
+                // <a href={this.landingData.linkedin} target="_blank" rel="noopener noreferrer">
+                //   <FontAwesomeIcon icon={faLinkedin} />
+                // </a>
                 <a href={this.landingData.github} target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
